@@ -1,0 +1,11 @@
+:
+
+### Purge all the vowels except e,E
+### --- I use this custom rule which is more efficient in my country  ---
+@a @i @o @u @A @I @O @U
+
+### Purge all the vowels
+@a @e @i @o @u @A @E @I @O @U
+
+### Only the three first letters
+### '3

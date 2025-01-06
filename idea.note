@@ -1,0 +1,18 @@
+
+
+custom single symbol /*-+!:;.,?$€=<#@
+specific end :) <3 :(  
+
+### Single digit - $?d
+### Double digit - $?d $?d
+### Single symbol - -1 '/*-+!:;.,??$=<#@' \$?1
+### Single symbol + single digit - $?s $?d
+### Single symbol + double digit - $?s $?d $?d
+### Year (1900-1999) - $1 $9 $?d $?d
+### Year (2000-2029) - $2 $0 $?1 $?d
+### Single symbol + year (1900-1999) - $?s $1 $9 $?d $?d
+### Single symbol + year (2000-2029) - $?s $2 $0 $?1 $?d
+### Single digit + single symbol - $?d $?s
+### Double digit + single symbol - $?d $?d $?s
+### year (1900-1999) + single symbol
+### year (2000-2029) + single symbol
